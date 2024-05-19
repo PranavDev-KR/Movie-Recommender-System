@@ -34,7 +34,7 @@ The dataset consists of 6040 users and 3706 unique movies, formatted in `.dat` f
 
 ## Installation
 
-Ensure you have Python 3.x installed along with Jupyter Notebook or JupyterLab. Required libraries can be installed via:
+Ensure you have Python 3 installed along with Jupyter Notebook or JupyterLab. Required libraries can be installed via:
 
 ```bash
 pip install pandas matplotlib scikit-surprise
